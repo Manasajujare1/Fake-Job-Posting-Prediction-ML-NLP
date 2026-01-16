@@ -88,8 +88,8 @@ The dataset used in this project is publicly available but exceeds GitHub's file
 
 ## 👩‍💻 Author
 **Manasa Jujare**  
-- GitHub: (add your GitHub link)  
-- LinkedIn: (add your LinkedIn link)
+- GitHub: https://github.com/Manasajujare1
+- LinkedIn: www.linkedin.com/in/manasa-jujare11
 
 ---
 
